@@ -1,0 +1,288 @@
+/* Table and Mobile */
+@media (max-width: 63.9375em) { 
+    .show-on-tm { 
+        display: block;
+    }
+ 
+    .hide-on-tm { 
+        display: none;
+    }
+
+    .video_container-right {
+        display: none;
+    }
+
+    .video_container-left {
+        width: 100%;
+    }
+
+    .header_list-right .list_right-item i {
+        padding: 5px;
+    }
+
+    .header_logo {
+        width: 100px;
+        transform: translateX(6px);
+    }
+
+    .video_box-share {
+        width: 411px;
+        height: 320px;
+        top: 25%;
+        left: 0%;
+    }
+
+    .video-box-list-social {
+        margin: 0 -6px;
+    }
+
+    .video_box-save {
+        width: 250px;
+        top: 35%;
+        left: 20%;
+    }
+
+    .video_info-social-list-report {
+        transform: translate(50%, 30px);
+    }
+
+ 
+ }
+ 
+
+ /* Table */
+ @media (min-width: 46.25em) and (max-width: 63.9875em ) {
+    .show-on-t { 
+        display: block;
+    }
+ 
+    .hide-on-t { 
+        display: none;
+    }
+
+    .input-search {
+        width: 310px;
+    }
+ 
+ 
+ }
+ 
+ /* Mobile */
+ @media (max-width: 46.1875em) {
+    .show-on-m { 
+        display: block;
+    }
+ 
+    .hide-on-m { 
+        display: none;
+    }
+
+    .input-search,
+    .btn-keyboard,
+    .btn-search,
+    .item-grid  {
+        display: none;
+    }
+
+    .header_list-right .list_right-item {
+        padding: 2px;
+        cursor: pointer;
+    }
+
+    .active.videos_list-down {
+      margin-left: -32px;
+    }
+
+    iframe {
+        height: 262px;
+    }
+
+    .video_intro {
+        flex-direction: column;
+    }
+
+    .video_info-left {
+        margin-right: 298px;
+        flex-direction: column;
+    }
+
+    .video_icon-dot {
+        display: none;
+    }
+
+    .video_info-date {
+        margin-right: 5px;
+    }
+
+    .video_info-social {
+        margin-right: 64px;
+    }
+
+    .video_icon-right {
+        font-size: 2.2rem;
+    }
+
+    .video_btn-subscribe {
+        font-size: 1.4rem;
+    }
+
+    .video_comment-user-response-desc span {
+        min-width: 106px;
+        flex-shrink: 1;
+    }
+
+    .video_channel-desc-main {
+        margin-top: 10px;
+    }
+
+    .header_microphone i {
+        display: none;
+    }
+
+    .header_list-icon {
+        margin: 0 10px 0 -10px;
+    }
+
+    .header_list-right {
+        margin-right: -16px;
+    }
+
+    .active.user_down,
+    .active.bell_down {
+        display: none;
+    }
+
+    .modal_mic-content {
+        left: 11%;
+    }
+
+    .btn-up,
+    .btn-down {
+      left: 6px;
+    }
+ 
+    .btn-up-videos,
+    .btn-down-videos {
+        top: -1px;
+        left: -1px;
+    }
+
+    .btn-up-grid,
+    .btn-down-grid {
+      top: -1px;
+      left: -1px;
+    }
+
+    .btn-up-bell,
+    .btn-down-bell {
+        top: -1px;
+        left: -1px;
+    }
+
+    .border_user-avatar {
+        top: 14px;
+        right: 16px;
+    }
+ }
+ 
+ 
+ /* PC */
+ @media (min-width: 64em) {
+    .show-on-p { 
+        display: block;
+    }
+ 
+    .hide-on-p { 
+        display: none;
+    }
+ }
+ 
+ 
+ /* Mobile < 380px */
+ @media (max-width: 24em) {
+    .video_info-left {
+        margin: 0 298px 0 62px;
+        flex-direction: column;
+        min-width: 106px;
+    }
+
+    .header_list-right {
+        margin-right: -18px;
+    }
+
+    .video_box-share {
+        width: 382px;
+    }
+
+    .video-box-list-social {
+        margin: 0 -12px;
+    }
+
+    .border_user-avatar {
+        top: 14px;
+        right: 14px;
+    }
+ }
+ 
+ 
+ /* Mobile < 320px */
+ @media (max-width: 20em) {
+    .video_info-social {
+        margin-right: 12px;
+    }
+
+    .header_logo {
+        width: 90px;
+        transform: translateX(6px);
+    }
+
+    iframe {
+        height: 210px;
+    }
+
+    .video_info-left {
+        margin: 0 298px 0 120px;
+        flex-direction: column;
+        min-width: 106px;
+    }
+
+    .header_list-right .list_right-item i {
+        font-size: 2.2rem;
+    }
+
+    .video-product {
+        height: 1800px;
+    }
+
+    .header_list-right {
+        margin-right: -20px;
+    }
+
+    .video_info-social-item span {
+        font-size: 1.2rem;
+    }
+
+    .video_info-social {
+        margin-top: 8px;
+    }
+
+    .active.grid_down {
+        display: none;
+    }
+
+    .video_box-share-change.video_box-share {
+        display: none;
+    }
+
+    .video_box-save {
+        width: 250px;
+        top: 18%;
+        left: 11%;
+    }
+
+    .border_user-avatar {
+        top: 14px;
+        right: 12px;
+    }
+    
+ }
