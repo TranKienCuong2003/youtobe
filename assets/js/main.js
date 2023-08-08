@@ -86,10 +86,98 @@ function renderVideos() {
             avatar: 'mixi_gaming.jpg',
             time: '2:18:31',
             channelAvatar: 'mixi_gaming_avatar.jpg',
-            title: 'Full Livestream 21/7/2021.(Chủ Nhật chỉ live bên nimo.tv/mixi vào 23:00 )',
+            title: 'Full Livestream 21/7/2021.(Chủ Nhật chỉ live bên nimo.tv/mixi vào 23:00)',
             author: 'MixiGaming',
             view: '1,4 Tr lượt xem',
             date: '2 năm trước'
+        },
+
+        {
+            linkVideo: './list-videos/video9.html',
+            avatar: 'chi_dau_parody.jpg',
+            time: '5:29',
+            channelAvatar: '1977_vlog.jpg',
+            title: '1977 Vlog - Chị Dậu Parody - Kỷ Nguyên Hắc Ám',
+            author: '1977 Vlog',
+            view: '23 Tr lượt xem',
+            date: '3 năm trước'
+        },
+
+        {
+            linkVideo: './list-videos/video10.html',
+            avatar: 'best_of_ncs.webp',
+            time: '1:51:56',
+            channelAvatar: 'luna_sounds.jpg',
+            title: 'Top 30 NoCopyrightSounds | Best of NCS | Most Viewed Songs | The Best of All Time | 2023',
+            author: 'Luna Sounds',
+            view: '966 N lượt xem',
+            date: '3 tháng trước'
+        },
+
+        {
+            linkVideo: './list-videos/video11.html',
+            avatar: 'kinh_ngiem_lap_trinh_web_sondang.jpg',
+            time: '16:23',
+            channelAvatar: 'f8.png',
+            title: 'Chia sẻ kinh nghiệm ngành lập trình của Sơn Đặng F8 - Talk With Me | Lofi Chill',
+            author: 'F8 OfficiaL',
+            view: '9,1 N lượt xem',
+            date: '8 tháng trước'
+        },
+
+        {
+            linkVideo: './list-videos/video12.html',
+            avatar: 'cafe_khong_duong.jpg',
+            time: '5:33',
+            channelAvatar: 'hoa_hong_dai.jpg',
+            title: '♬ CAFE KHÔNG ĐƯỜNG - JOMBIE x TKAN X BEAN ( HHD REMIX ) | NHỚ ĐEO TAI NGHE |',
+            author: 'HOA HỒNG DẠI',
+            view: '14 Tr lượt xem',
+            date: '2 năm trước'
+        },
+
+        {
+            linkVideo: './list-videos/video13.html',
+            avatar: 'chay_ngay_di.jpg',
+            time: '4:33',
+            channelAvatar: 'son_tung_mtp.jpg',
+            title: 'CHẠY NGAY ĐI | RUN NOW | SƠN TÙNG M-TP | Official Music Video',
+            author: 'Sơn Tùng M-TP Official',
+            view: '155 Tr lượt xem',
+            date: '5 năm trước'
+        },
+
+        {
+            linkVideo: './list-videos/video14.html',
+            avatar: 'setup_window_vunguyencoder.jpg',
+            time: '47:53',
+            channelAvatar: 'vunguyencoder.jpg',
+            title: 'Hướng dẫn setup siêu tốc mọi thứ để lập trình trên Window | Acer Aspire 7 ✖ Vũ Nguyễn Coder',
+            author: 'Vũ Nguyễn Coder',
+            view: '18 N lượt xem',
+            date: '2 tuần trước'
+        },
+
+        {
+            linkVideo: './list-videos/video15.html',
+            avatar: 'quan_diem_hoc_lap_trinh.jpg',
+            time: '24:05',
+            channelAvatar: 'f8.png',
+            title: 'Phương pháp HỌC LẬP TRÌNH của Sơn Đặng! | Lộ trình học lập trình | Phương pháp học lập trình',
+            author: 'F8 OfficiaL',
+            view: '115 N lượt xem',
+            date: '2 năm trước'
+        },
+
+        {
+            linkVideo: './list-videos/video16.html',
+            avatar: 'hoi_va_dap_ve_nganh_it.jpg',
+            time: '17:37',
+            channelAvatar: 'f8.png',
+            title: 'Hỏi & Đáp về ngành IT cùng Sơn Đặng F8 | Lofi Chill',
+            author: 'F8 OfficiaL',
+            view: '13 N lượt xem',
+            date: '8 tháng trước'
         },
 
     ]
